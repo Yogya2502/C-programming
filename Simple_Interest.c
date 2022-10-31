@@ -15,7 +15,8 @@ int main()
     si = p*n*r/100;
 
     printf("%f\n",si);
-
+    
+    //formula for amount
     amount = p + si;
   
     printf("%f\n",amount);
